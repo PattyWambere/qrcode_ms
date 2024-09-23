@@ -1,0 +1,13 @@
+{
+    "name": "pattywrld/information",
+    "description": "NIYIGENA Patric <+250 786 352 983>",
+    "authors": [
+        {
+            "name": "NIYIGENA Patric",
+            "email": "pattywrld2003@gmail.com"
+        }
+    ],
+    "require": {
+        "chillerlan/php-qrcode": "^5.0"
+    }
+}
